@@ -49,6 +49,9 @@ python benchmark.py
 ```
 
 The script prints the median time for each calculation and the measured speedup. It does not include list/array construction in the timed section.
+## Benchmark result
+
+<img width="1028" height="357" alt="image" src="https://github.com/user-attachments/assets/2074ecc2-fc02-4c2d-a768-de5f93cd02b1" />
 
 ## Benchmark methodology
 
