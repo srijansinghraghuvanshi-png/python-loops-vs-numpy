@@ -1,5 +1,4 @@
 """Compare Python list-comprehension squaring with NumPy vectorized squaring.
-
 Run with: python benchmark.py
 """
 
